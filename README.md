@@ -1,3 +1,3 @@
 # AtivTania
 
-Aluno: Maicon Bortoli
+Alunos: Maicon Bortoli e Nathan Godoy Tavares
